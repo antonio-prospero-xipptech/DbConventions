@@ -5,7 +5,7 @@ E todos os termos devem estar em inglês, exceto alguns termos que não há trad
 Sempre prefira nomes descritivos, evitando ao máximo contrações.
 
 ## Para postgreSQL verificar o arquivo:
-db-conventions-postgresql.md
+[notebooks/db-conventions-postgresql.ipynb](notebooks/db-conventions-postgresql.ipynb)
 
-## Para SQL Server verificar o arquivo:
-db-conventions-sqlserver.md
+## Para SQL Server verificar o arquivo (em construção):
+[notebooks/db-conventions-sqlserver.ipynb](notebooks/db-conventions-sqlserver.ipynb)
